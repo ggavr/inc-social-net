@@ -1,0 +1,12 @@
+.content{
+    grid-area: c;
+    background-color: aliceblue;
+}
+.posts{
+    display: flex;
+}
+.item{
+}
+.item img{
+    width: 30px;
+}

@@ -1,0 +1,13 @@
+.posts{
+    display: flex;
+}
+.item{
+}
+.posts img{
+    width: 30px;
+    border-radius: 25px;
+}
+.like{
+    font-size: x-large;
+    color: gold;
+}
