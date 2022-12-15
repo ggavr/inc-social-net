@@ -48,4 +48,7 @@
   grid-template-columns: 2fr 10fr;
   grid-gap: 10px;
 }
-
+.app-wpapper-content{
+  grid-area: c;
+  background-color: aliceblue;
+}
